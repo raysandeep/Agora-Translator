@@ -6,6 +6,6 @@ tensorflow
 Flask==1.0.2
 Flask_SocketIO==3.0.2
 pandas==0.23.0
-numpy==1.14.3
+numpy==1.22.0
 matplotlib
 imageio==2.4.1
